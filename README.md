@@ -9,8 +9,13 @@ and end result could look like this:
 
 
 Bracketmanager
+
   └→ img (here you can store images)
+  
   └→ style (stylesheet css)
+  
   brackets.html (basic page showing what is the end result html)
+  
   generateBrackets.php (php to generate brackets.html from input data)
+  
   input.html (user interface for user to generate brackets, also holding in datalist to find images in list)
